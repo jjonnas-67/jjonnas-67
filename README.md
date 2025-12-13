@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o José Jonnas  
+# 👋 Olá, eu sou José Jonnas  
 Aqui compartilho meus estudos, projetos e aprendizados.  
 
 ---
